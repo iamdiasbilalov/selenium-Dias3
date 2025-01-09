@@ -1,4 +1,4 @@
-﻿# Selenium practice with .NET
+﻿# Bilal Dias
 ### This repository contains code for basic practice with Selenium using C#/.NET
 ### Software and packages
 * .NET SDK 8
